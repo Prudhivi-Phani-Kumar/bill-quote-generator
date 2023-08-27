@@ -1,0 +1,186 @@
+{
+  "Non Chocolate": [
+    {
+      "flavour": "Vanilla",
+      "price": "700"
+    },
+    {
+      "flavour": "Butterscotch",
+      "price": "850"
+    },
+    {
+      "flavour": "Pineapple",
+      "price": "850"
+    },
+    {
+      "flavour": "Strawberry",
+      "price": "850"
+    },
+    {
+      "flavour": "Mango Filling",
+      "price": "850"
+    },
+    {
+      "flavour": "Milky Badam",
+      "price": "950"
+    },
+    {
+      "flavour": "Milky Butterscotch",
+      "price": "950"
+    },
+    {
+      "flavour": "Honey Almonds",
+      "price": "950"
+    },
+    {
+      "flavour": "Pineapple Gateau",
+      "price": "950"
+    },
+    {
+      "flavour": "Caramel Nuts",
+      "price": "950"
+    },
+    {
+      "flavour": "Blackcurrant",
+      "price": "950"
+    },
+    {
+      "flavour": "Chocochips",
+      "price": "980"
+    },
+    {
+      "flavour": "Snow Chocolate",
+      "price": "950"
+    },
+    {
+      "flavour": "Lychee Strawberry",
+      "price": "950"
+    },
+    {
+      "flavour": "Black Forest",
+      "price": "980"
+    },
+    {
+      "flavour": "Vancho",
+      "price": "1000"
+    },
+    {
+      "flavour": "Fruit and Nuts",
+      "price": "1050"
+    },
+    {
+      "flavour": "Fruits Overload",
+      "price": "1050"
+    },
+    {
+      "flavour": "Blueberry",
+      "price": "1050"
+    },
+    {
+      "flavour": "White Truffle",
+      "price": "1050"
+    },
+    {
+      "flavour": "Brown Chocolate",
+      "price": "1100"
+    },
+    {
+      "flavour": "Choco Fantasy",
+      "price": "1100"
+    },
+    {
+      "flavour": "Red Velvet",
+      "price": "1250"
+    },
+    {
+      "flavour": "Rainbow",
+      "price": "1400"
+    },
+    {
+      "flavour": "Rasmalai Cake",
+      "price": "1500"
+    },
+    {
+      "flavour": "Gulabjamun Cake",
+      "price": "1500"
+    },
+    {
+      "flavour": "Kaju Katli Cake",
+      "price": "1550"
+    }
+  ],
+  "Chocolate": [
+    {
+      "flavour": "Black Forest",
+      "price": "980"
+    },
+    {
+      "flavour": "Chocochips",
+      "price": "980"
+    },
+    {
+      "flavour": "Brown Chocolate",
+      "price": "1100"
+    },
+    {
+      "flavour": "Choco Fantasy",
+      "price": "1100"
+    },
+    {
+      "flavour": "Choco Vanilla",
+      "price": "1100"
+    },
+    {
+      "flavour": "German Blackforestt",
+      "price": "1200"
+    },
+    {
+      "flavour": "Chocolate Truffle",
+      "price": "1150"
+    },
+    {
+      "flavour": "Chocolate Symphony",
+      "price": "1250"
+    },
+    {
+      "flavour": "Oreo Mocha",
+      "price": "1300"
+    },
+    {
+      "flavour": "Chocolate Hazelnut",
+      "price": "1300"
+    },
+    {
+      "flavour": "Chocolate Five Star",
+      "price": "1300"
+    },
+    {
+      "flavour": "Chocolate Fudge",
+      "price": "1300"
+    },
+    {
+      "flavour": "Choco KitKat",
+      "price": "1400"
+    },
+    {
+      "flavour": "Choco Crunch",
+      "price": "1400"
+    },
+    {
+      "flavour": "Chocolate Mousse",
+      "price": "1400"
+    },
+    {
+      "flavour": "Ferrero Rocher",
+      "price": "1500"
+    },
+    {
+      "flavour": "Belgium Chocolate",
+      "price": "1500"
+    },
+    {
+      "flavour": "Italian Chocolate",
+      "price": "1500"
+    }
+  ]
+}

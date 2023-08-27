@@ -1,0 +1,7 @@
+{
+  "name": "billing-quote-generator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
