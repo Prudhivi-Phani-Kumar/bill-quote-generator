@@ -96,7 +96,7 @@ const Home: React.FC = () => {
   const fetchCakeAccessories = useCallback(async () => {
     const { data } = await axios.get(`${baseURL}/cakeAccessories.json`);
     const cakeAccessoriesData = data.reduce(
-      (acc: string, item: string) => (acc = acc + `•${item}\n`),
+      (acc: string, item: string) => (acc = acc + `• ${item}\n`),
       ""
     );
     console.log(cakeAccessoriesData);
